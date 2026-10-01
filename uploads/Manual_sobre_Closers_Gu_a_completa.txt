@@ -1,0 +1,313 @@
+Manual sobre Closers: Guía completa de preguntas y respuestas para clientes que necesitan contratarlos
+Este manual está diseñado para empresas que necesitan contratar Closers (cerradores de ventas). Cubre desde la decisión inicial ("¿necesito uno?") hasta la firma, gestión, pago y resolución de conflictos.
+
+1. Conceptos básicos: ¿qué es un Closer?
+P1: ¿Qué hace exactamente un Closer?
+Un Closer es el profesional que se encarga de convertir un cliente potencial ya cualificado en un cliente que paga. Su trabajo central es: entender a fondo la necesidad del cliente, manejar objeciones, negociar condiciones, impulsar el cierre y confirmar el cobro.
+
+Un Closer NO se encarga de: prospección en frío (eso es del Setter/SDR), filtrado inicial de leads, agendamiento de reuniones. El Setter contacta, filtra y agenda; el Closer toma esa reunión y cierra.
+
+P2: ¿Cuál es la diferencia entre Closer y Setter?
+Rol	Etapa	Tarea central	¿Cierra ventas?
+Setter/SDR	Parte inicial	Contactar leads, confirmar interés, agendar reunión	❌
+Closer	Parte final	Recibir la reunión agendada, diagnosticar, manejar objeciones, cerrar y cobrar	✅
+El único objetivo del Setter es "entregar una reunión confirmada al Closer". El Closer se encarga de todo lo posterior.
+
+P3: ¿En qué se diferencia un Closer de un vendedor común?
+Un vendedor común (Sales Rep) suele hacer el proceso completo: buscar leads, contactar, demostrar y cerrar. El Closer es una especialización del proceso: solo se enfoca en el cierre. Esta división es especialmente común en ventas de alto ticket, donde cerrar requiere habilidades muy específicas de negociación y manejo de objeciones.
+
+2. ¿Debería contratar un Closer? (Evaluación de idoneidad)
+P4: ¿En qué etapa del negocio conviene contratar un Closer?
+No conviene contratar un Closer cuando: tu facturación mensual es inferior a $50,000 USD. En esa etapa, contratar un SDR (que prospecta y agenda) es más efectivo.
+
+Sí conviene contratar un Closer cuando se cumplen estas tres condiciones:
+
+Tienes 10 o más reuniones cualificadas confirmadas por semana
+
+Tu tasa de cierre actual es 20% o más
+
+Tu ticket promedio es $3,000 USD o más
+
+Si falla una de las tres, el Closer no puede compensarlo. El Closer es un amplificador, no un creador: un buen Closer hace que un buen producto venda más, pero no puede resucitar un mal producto.
+
+P5: ¿Una empresa pequeña debería contratar un Closer puro?
+No necesariamente. Para empresas pequeñas de servicios B2B con recursos limitados, contratar un "Closer puro" puede ser poco eficiente. El Closer puro funciona en grandes empresas SaaS porque allí hay un equipo de SDRs generando leads y agendando reuniones. Una empresa pequeña necesita más bien un vendedor de ciclo completo (que sepa buscar leads, nutrir relaciones, agendar, demostrar, proponer y cobrar), no alguien que solo cierre.
+
+3. Modelos de pago y precios
+P6: ¿Cómo cobra normalmente un Closer?
+Modelo	Descripción	Cuándo usarlo
+Comisión pura	Solo cobra un porcentaje de la venta cerrada, normalmente 10%-20%	Cuando tienes flujo constante de leads cualificados y producto validado
+Fijo + comisión	Un pago mensual reducido + un porcentaje menor de comisión	Producto complejo, el Closer necesita tiempo de aprendizaje
+Por hora	Se paga por hora trabajada	Pruebas cortas o tareas administrativas
+La comisión pura es el modelo más común: el cliente asume el menor riesgo posible, porque solo paga cuando hay resultado.
+
+P7: ¿Qué porcentaje de comisión es habitual?
+El rango habitual en el mercado es 10%-20% del valor de la venta. En puestos de ventas de alto nivel, las comisiones suelen estar entre 7.5% y 17.5%. También hay plataformas que usan por defecto el modelo de comisión pura (no cure no pay), cobrando solo cuando se cierra.
+
+El porcentaje concreto depende de: ticket promedio, duración del ciclo de venta, calidad del lead (frío/caliente) y si el Closer participa o no en el filtrado inicial.
+
+P8: Si uso comisión pura, ¿qué debo tener en cuenta?
+Principio clave: un Closer a comisión pura elige oportunidades, no esperanzas. Un Closer de alto nivel necesita infraestructura, no caos.
+
+Debes proporcionarle:
+
+Reuniones agendadas cálidas y ya filtradas (no leads sueltos)
+
+Posicionamiento claro y producto convincente
+
+Proceso de conversión ya validado
+
+Marco de manejo de objeciones
+
+Sistema de nutrición previa y seguimiento posterior
+
+Datos de seguimiento transparentes y expectativas reales de ingresos
+
+Si no tienes esto, no le ofreces una oportunidad, sino incertidumbre. Un Closer de alto nivel lo detecta en 10 minutos y se va.
+
+P9: ¿Cuánto gana realmente un Closer? (Referencia)
+España: salario medio anual de un Closer: €32,000-€38,000; por hora: €15-€18.
+
+Closer remoto de alto ticket: en modelo de comisión, un rendimiento medio factura $10k-$20k/mes; un rendimiento top puede llegar a $20k-$30k/mes. Hay anuncios que muestran Closers top facturando $55,000 en un solo mes.
+
+Mercado remoto de Argentina/Latinoamérica: tarifas por hora entre $5 y $20, según experiencia y habilidades.
+
+P10: ¿Cuánto más barato es contratar un Closer en Latinoamérica vs. Estados Unidos?
+Comparación de costo total del primer año (EE.UU. local vs. LatAm remoto):
+
+Concepto	EE.UU. local	LatAm (vía plataforma)
+Salario base	$60,000	$17,280
+Comisión/OTE	$30k-$60k	Opcional, lo define el cliente
+Impuestos sobre nómina	~$5,700	Incluidos
+Beneficios	~$15,000	Incluidos
+Costo de reclutamiento	$12k-$20k	$0
+Total primer año	$125,700+	$17,280 (todo incluido)
+Los Closers de LatAm suelen ser bilingües (inglés/español) y tener zonas horarias compatibles con EE.UU., y se contratan por tarifa mensual fija (40 h/semana), sin costos ocultos.
+
+4. Contrato y puntos clave de la firma
+P11: ¿Cuál debe ser la duración mínima del contrato?
+Depende del modelo de pago:
+
+Comisión pura: normalmente sin plazo mínimo, o 1 mes.
+
+Fijo + comisión: se recomienda mínimo 3 meses, porque el primer mes es de aprendizaje y adaptación; el Closer no rinde al 100% hasta la semana 3.
+
+Por hora: se pueden comprar paquetes de 10/20/40 horas, sin compromiso largo.
+
+P12: ¿Qué debe quedar claro en el contrato?
+Definición de "cierre válido": contrato firmado + primer pago recibido + 30 días sin devolución.
+
+Momento de pago de la comisión: ¿al firmar o al cobrar? Debe ser "al cobrar"; de lo contrario, si el cliente cancela, ya pagaste y no puedes recuperarlo.
+
+Cláusula de confidencialidad (NDA): mutua, protege los datos de tus clientes y tu proceso de ventas.
+
+No competencia: el Closer no puede trabajar para un competidor directo durante el contrato ni en los 6 meses posteriores.
+
+Cláusula de sustitución: si el Closer no rinde, ¿tienes derecho a cambiarlo sin costo adicional?
+
+Propiedad de los leads: todos los leads y datos son tuyos.
+
+Plazo de pago: 7-15 días desde la emisión de la factura.
+
+P13: ¿Hay periodo de prueba? ¿Cómo diseñarlo?
+Sí, se recomienda. Opciones:
+
+Opción 1 (recomendada): prueba pagada a precio reducido
+
+Duración: 1 semana o 10 horas
+
+Precio: 50% del precio normal, o un paquete fijo (ej: $350 USD)
+
+Si continúas, el costo de la prueba se descuenta del primer mes
+
+Opción 2: garantía de resultados
+
+Durante los primeros 30 días, si el Closer no alcanza el número de reuniones o cierres acordados, se cambia gratis o se devuelve la parte fija.
+
+5. Gestión y rendimiento
+P14: ¿Cuáles son los KPIs clave de un Closer?
+Indicadores centrales:
+
+Llamadas atendidas/semana: 15-30 (tiempo completo)
+
+Tasa de cierre de reuniones cualificadas: 15%-35%
+
+Toques de seguimiento por oportunidad: 6-12
+
+Ciclo de venta: desde el mismo día hasta 30 días
+
+Periodo de rampa (hasta pleno rendimiento): ~4 semanas
+
+También conviene monitorear: llamadas diarias, tasa de asistencia a reuniones, ticket promedio y velocidad del pipeline.
+
+P15: ¿Cómo detectar si un Closer está "eligiendo los mejores leads" u "ocultando leads"?
+Con un informe Fronter-Closer puedes ver claramente: cuántas llamadas entregó cada Setter, cuántas se convirtieron en ventas, y el porcentaje de conversión de cada Closer. Si un Closer recibe pocas llamadas pero tiene alta conversión, puede ser normal; si la conversión cae de golpe, hay que revisar la calidad del lead o el estado del Closer.
+
+P16: ¿Conviene contratar un Closer o varios?
+No contrates uno solo y apuestes a que funcione. Se recomienda probar varios a la vez, como se testean anuncios, y quedarte con el que mejor rinda. La tasa de fracaso de un solo Closer no es baja: hay anuncios que muestran que alrededor del 50% de los Closers son eliminados en los primeros 30 días.
+
+6. Fiscalidad y cumplimiento (contexto España)
+P17: ¿El Closer se considera empleado o autónomo?
+En la mayoría de casos, autónomo. Criterios para determinarlo: si el Closer trabaja para varios clientes a la vez, si organiza su propio horario, si usa sus propias herramientas (CRM, calendario, teléfono), y si cobra por resultados.
+
+P18: ¿En qué casos se considera "falso autónomo"?
+Cuando concurren las señales típicas de una relación laboral encubierta:
+
+El Closer trabaja en exclusiva para un solo cliente
+
+El cliente le impone horario, lugar y forma de trabajo
+
+El Closer usa las herramientas y el equipo del cliente de forma obligatoria
+
+El cliente le paga una cantidad fija mensual con independencia de resultados
+
+El Closer está integrado en la organización del cliente (asiste a reuniones internas, recibe órdenes directas, etc.)
+
+Si se dan estas señales, Hacienda o la Inspección de Trabajo pueden reclasificar la relación como laboral, con las correspondientes obligaciones de cotización y regularización.
+
+P19: ¿Qué impuestos y obligaciones tengo si contrato un Closer autónomo?
+El Closer emite factura con IVA (si aplica) y, en su caso, retención de IRPF.
+
+Tú, como cliente, debes practicar la retención de IRPF (normalmente el 15%, o el 7% en el primer año de actividad, si cumple requisitos) y ingresarla en Hacienda.
+
+El Closer se encarga de sus propias cotizaciones a la Seguridad Social (RETA).
+
+Si el Closer es de fuera de España (ej: LatAm), la operación puede estar sujeta a IVA por inversión del sujeto pasivo (el cliente español autoliquida el IVA) y a posibles retenciones por rentas de no residentes (19% general, salvo convenio para evitar doble imposición).
+
+P20: ¿Qué pasa si el Closer es de otro país (ej: Argentina, México, Colombia)?
+Debes revisar:
+
+Convenio de doble imposición entre España y su país.
+
+Retención aplicable a rentas de no residentes.
+
+IVA por inversión del sujeto pasivo si presta servicios desde fuera de la UE.
+
+Facturación internacional y justificantes de pago.
+
+Se recomienda consultar con un asesor fiscal antes de firmar.
+
+7. Gestión diaria y buenas prácticas
+P21: ¿Cómo debo preparar a mi Closer antes de que empiece?
+Proporciónale:
+
+Formación de producto: features, beneficios, casos de uso.
+
+Formación de sector: competencia, tendencias, regulación.
+
+Guion de ventas: adaptado a tu cliente ideal.
+
+Acceso al CRM y a las herramientas (Zoom, telefonía, WhatsApp).
+
+Ejemplos de llamadas grabadas (buenas y malas).
+
+Objetivos claros y KPIs esperados.
+
+Persona de contacto para dudas diarias.
+
+P22: ¿Cómo debo hacer seguimiento del rendimiento?
+Reunión semanal 1:1: revisar KPIs, pipeline, objeciones recurrentes.
+
+Revisión de grabaciones: escuchar llamadas y dar feedback concreto.
+
+Roleplay mensual: simular objeciones y escenarios difíciles.
+
+Informe mensual: cierres, ingresos, tasa de conversión, ROI.
+
+Encuesta al cliente final: NPS o satisfacción con el proceso.
+
+P23: ¿Qué hago si el Closer no rinde?
+Pasos a seguir:
+
+Diagnóstico: ¿es problema de leads, de producto, de guion o del Closer?
+
+Plan de mejora: 2-4 semanas con objetivos concretos.
+
+Feedback documentado: por escrito, con ejemplos.
+
+Sustitución: si no mejora, aplicar la cláusula de sustitución del contrato.
+
+Cierre ordenado: traspasar pipeline, CRM y contactos.
+
+8. Preguntas frecuentes adicionales
+P24: ¿Puedo contratar un Closer solo para un lanzamiento puntual?
+Sí. Para lanzamientos (Black Friday, lanzamiento de infoproducto, campaña), puedes contratar por horas o por paquete cerrado. Es una buena forma de probar sin compromiso largo.
+
+P25: ¿El Closer trabaja con mis leads o los genera él?
+Depende del modelo:
+
+Con Setter/SDR: el Closer solo recibe leads ya filtrados y agendados.
+
+Sin Setter: el Closer puede encargarse también de la prospección, pero entonces es un perfil de ciclo completo, no un Closer puro.
+
+Comisión pura: normalmente el cliente aporta los leads; el Closer solo cierra.
+
+P26: ¿Qué herramientas necesita un Closer para trabajar?
+CRM: HubSpot, Pipedrive, Salesforce, Close.com
+
+Videollamada: Zoom, Google Meet, Teams
+
+Telefonía: Aircall, RingCentral, JustCall
+
+Mensajería: WhatsApp Business, Slack
+
+Firma digital: DocuSign, PandaDoc, HelloSign
+
+Pagos: Stripe, PayPal, Mercado Pago
+
+Grabación: Gong, Fireflies, Fathom
+
+Agenda: Calendly, Cal.com
+
+P27: ¿Cuánto tiempo tarda un Closer en alcanzar pleno rendimiento?
+Normalmente 3-4 semanas. La primera semana es de onboarding y aprendizaje; la segunda, de adaptación al guion; la tercera, de ajuste fino; a partir de la cuarta, se puede esperar rendimiento pleno.
+
+P28: ¿Qué señales indican que un Closer es bueno?
+Escucha más de lo que habla (proporción 70/30).
+
+Hace preguntas de diagnóstico antes de presentar.
+
+No baja el precio sin pedir algo a cambio.
+
+Documenta todo en el CRM.
+
+Hace seguimiento sistemático.
+
+Acepta feedback y mejora.
+
+Cumple lo que promete.
+
+P29: ¿Qué señales indican que un Closer es malo?
+Habla demasiado y escucha poco.
+
+Presenta features en vez de beneficios.
+
+No pide la venta.
+
+No hace seguimiento.
+
+Baja el precio sin contrapartida.
+
+Discute con el cliente.
+
+No documenta en CRM.
+
+Llega sin preparar la llamada.
+
+No mide resultados.
+
+P30: ¿Puedo pedir referidos al Closer?
+Sí, y es recomendable. Un buen Closer construye relaciones y puede pedir referidos a clientes satisfechos. Puedes incentivar esto con un bonus adicional por referido convertido.
+
+9. Resumen ejecutivo
+Pregunta clave	Respuesta breve
+¿Qué hace un Closer?	Cierra ventas de leads ya cualificados
+¿Cuándo contratarlo?	+10 reuniones/semana, +20% cierre, +$3,000 ticket
+¿Cómo paga?	Comisión pura (10-20%), fijo+comisión, o por hora
+¿Duración mínima?	1 mes (comisión), 3 meses (fijo+comisión)
+¿Periodo de prueba?	Sí, 1 semana o 10 horas al 50%
+¿Qué debe definir el contrato?	Cierre válido, pago al cobrar, NDA, no competencia, sustitución
+¿Cómo medir?	KPIs semanales: llamadas, cierre, ticket, ciclo
+¿Empleado o autónomo?	Autónomo en la mayoría de casos
+¿Cuánto tarda en rendir?	3-4 semanas
+¿Uno o varios?	Probar varios, quedarse con el mejor

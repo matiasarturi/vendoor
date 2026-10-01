@@ -1,0 +1,28 @@
+.chatbot { position: fixed; right: 1.4rem; bottom: 1.4rem; z-index: 30; font-family: inherit; }
+.chatbot-panel { position: absolute; right: 0; bottom: 5.2rem; display: flex; flex-direction: column; width: min(390px, calc(100vw - 2rem)); height: min(560px, calc(100dvh - 7.5rem)); min-height: 340px; overflow: hidden; border: 1px solid var(--border); border-radius: 18px; background: var(--bg-alt); box-shadow: 0 18px 60px rgba(0, 0, 0, .45); }
+.chatbot-panel[hidden] { display: none; }
+.chatbot-header { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding: 1rem 1.1rem; border-bottom: 1px solid var(--border); background: #151e2e; }
+.chatbot-header > div { display: grid; gap: .1rem; }
+.chatbot-header strong { font-size: .98rem; }
+.chatbot-header span { color: var(--muted); font-size: .75rem; }
+.chatbot-close { width: 2rem; height: 2rem; border: 1px solid var(--border); border-radius: 50%; background: var(--card); color: var(--text); font-size: 1.3rem; line-height: 1; cursor: pointer; }
+.chatbot-messages { display: flex; flex: 1; flex-direction: column; gap: .75rem; overflow-y: auto; padding: 1rem; }
+.chat-message { max-width: 88%; margin: 0; padding: .7rem .85rem; border: 1px solid var(--border); border-radius: 13px 13px 13px 4px; background: var(--card); color: var(--text); font-size: .9rem; line-height: 1.5; white-space: pre-wrap; overflow-wrap: anywhere; }
+.chat-message.user { align-self: flex-end; border-color: #3e57a5; border-radius: 13px 13px 4px 13px; background: #29365a; }
+.chat-message.pending { color: var(--muted); font-style: italic; }
+.chatbot-form { display: flex; align-items: flex-end; gap: .6rem; padding: .8rem; border-top: 1px solid var(--border); background: #151e2e; }
+.chatbot-form textarea { flex: 1; max-height: 100px; min-height: 2.7rem; resize: vertical; padding: .65rem .75rem; border: 1px solid var(--border); border-radius: 11px; background: var(--bg); color: var(--text); font: inherit; font-size: .88rem; line-height: 1.35; }
+.chatbot-form textarea::placeholder { color: var(--muted); }
+.chatbot-form textarea:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+.chatbot-form button, .chatbot-toggle { display: grid; place-items: center; border: 0; background: linear-gradient(135deg, var(--accent), var(--accent-2)); color: var(--bg); cursor: pointer; }
+.chatbot-form button { flex: 0 0 2.7rem; width: 2.7rem; height: 2.7rem; border-radius: 11px; }
+.chatbot-form button:disabled { cursor: wait; opacity: .55; }
+.chatbot-form svg { width: 1.35rem; height: 1.35rem; fill: none; stroke: currentColor; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.8; }
+.chatbot-toggle { width: 3.8rem; height: 3.8rem; margin-left: auto; border: 2px solid rgba(255, 255, 255, .22); border-radius: 50%; box-shadow: 0 8px 28px rgba(0, 0, 0, .35); transition: transform .16s ease, box-shadow .16s ease; }
+.chatbot-toggle:hover { transform: translateY(-2px); box-shadow: 0 12px 32px rgba(0, 0, 0, .42); }
+.chatbot-toggle svg { width: 1.8rem; height: 1.8rem; fill: none; stroke: currentColor; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.7; }
+.chatbot-toggle:focus-visible, .chatbot-close:focus-visible, .chatbot-form button:focus-visible { outline: 2px solid var(--text); outline-offset: 3px; }
+@media (max-width: 640px) {
+  .chatbot { right: .85rem; bottom: .85rem; }
+  .chatbot-panel { position: fixed; right: .65rem; bottom: 5.1rem; width: calc(100vw - 1.3rem); height: min(560px, calc(100dvh - 6rem)); min-height: 300px; }
+}
